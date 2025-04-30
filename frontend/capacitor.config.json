@@ -1,0 +1,6 @@
+{
+  "appId": "com.khushi.studentportal",
+  "appName": "studentportal",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
